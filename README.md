@@ -1,6 +1,6 @@
 # decaptcha-classification
 
-This repository is part of a submission for an assignment, which was part of the course Introduction to Machine Learning (CS771A), Fall Semester, 2022, IIT Kanpur. 
+This repository is part of a submission for an assignment, which was part of the course Introduction to Machine Learning (CS771A), IIT Kanpur. 
 
 ## Problem Statment
 Each CAPTCHA image in this assignment will be 500 × 150 pixels in size. Each image will contain a code composed of **3 upper case Greek characters** (i.e. no numerals, punctuation
